@@ -1,0 +1,530 @@
+Answer the following question using only information from the article.
+
+Article: 
+###
+IBM proposed following for contract completion.
+Time and Materials contracts:
+
+IBM will have fulfilled its obligations in SOW when any one of the following first occurs
+	
+	a. IBM satisfies the completion of items listed in scope section and in IBM responsibilities; or 
+	b. The charges specified in the Charges section or in any subsequent Change Authorization have been reached; or 
+	c. The contract end date is reached as defined in the Estimated Contract Period of Performance section; or 
+	d. Client or IBM terminates the delivery of Services in accordance with the provisions of the Agreement. 
+	
+
+Fixed Price contracts
+
+IBM will have fulfilled its obligations in SOW when any one of the following first occurs:
+	a. IBM satisfies the completion of items listed in scope section and in IBM responsibilities; or 
+	b. The contract end date is reached as defined in the Estimated Contract Period of Performance section; or 
+	c. Client or IBM terminates the delivery of Services in accordance with the provisions of the Agreement. 
+
+###
+
+Question:
+What are the Criteria’s for Contract completion?
+
+Answer:
+IBM proposed following for contract completion.
+Time and Materials contracts:
+
+IBM will have fulfilled its obligations in SOW when any one of the following first occurs
+	
+	a. IBM satisfies the completion of items listed in scope section and in IBM responsibilities; or 
+	b. The charges specified in the Charges section or in any subsequent Change Authorization have been reached; or 
+	c. The contract end date is reached as defined in the Estimated Contract Period of Performance section; or 
+	d. Client or IBM terminates the delivery of Services in accordance with the provisions of the Agreement. 
+	
+
+Fixed Price contracts
+
+IBM will have fulfilled its obligations in SOW when any one of the following first occurs:
+	a. IBM satisfies the completion of items listed in scope section and in IBM responsibilities; or 
+	b. The contract end date is reached as defined in the Estimated Contract Period of Performance section; or 
+	c. Client or IBM terminates the delivery of Services in accordance with the provisions of the Agreement. 
+
+Question:
+What are the typical contract completion criteria for Fixed Price Contract
+
+Answer:
+IBM will have fulfilled its obligations in SOW when any one of the following first occurs:
+	a. IBM satisfies the completion of items listed in scope section and in IBM responsibilities;
+	 or 
+	b. The contract end date is reached as defined in the Estimated Contract Period of Performance section; 
+	or 
+c. Client or IBM terminates the delivery of Services in accordance with the provisions of the Agreement.
+
+Question:
+What are the typical contract completion criteria for Time and Materials contracts
+Contract?
+
+Answer:
+	a. IBM satisfies the completion of items listed in scope section and in IBM responsibilities.
+	 or 
+	b. The charges specified in the Charges section or in any subsequent Change Authorization have been reached;
+	 or 
+	c. The contract end date is reached as defined in the Estimated Contract Period of Performance section; 
+	or 
+	d. Client or IBM terminates the delivery of Services in accordance with the provisions of the Agreement. 
+
+Question:
+Fixed price contract
+
+Answer:
+ IBM will have fulfilled its obligations in SOW when any one of the following first occurs: a. IBM satisfies the completion of items listed in scope section and in IBM responsibilities; or b. The contract end date is reached as defined in the Estimated Contract Period of Performance section; or c. Client or IBM terminates the delivery of Services in accordance with the provisions of the Agreement.
+Input:
+
+Output:
+IBM uses  “Core/Flex” approach to handle scalability and enable flexible deployment of the required skills and experience at the right time and right place.
+The “Core” team will be dedicated to performing high-end activities across different work streams and will be retained within the account for the long term. This approach will provide stability and continuity.
+The “Flex” team will provide additional staffing capacity to support variable and supplemental project demands and will increase or decrease in size to address dynamic workload, providing necessary scalability and flexibility at an optimal cost. This will help ensure there will be a highly skilled resource pool available which can be used in case of an unpredicted volume surge or to offer a quick resolution in a crisis. Flex team practitioners who gain significant experience in the Client’s environment will be included in the core team when required.
+The following schematic provides a simple overview of the Core/Flex model:
+Depending on Client’s current and future needs, resources will be assigned to work either as part of the “IBM Core Team” to address Client’s core and critical project services, and/or to the “IBM Flex Team”. The Flex team will be primarily assigned for Sustainment Services, where the workload can be elastic and dynamic.
+As Client’s project portfolio changes, the demand for skills and system expertise also changes. Resources move between the “Flex” and “Core” Service teams to optimize our delivery capability and maximize the flexibility of service to Client. Additionally, a flexible “IBM Resource Pool” will be used to supplement both the Core and the Flex teams to help deliver the right balance of experience and skills in line with your forecast and then committed demand.
+The Core/Flex staffing model will be complemented with robust 30-60-90 based Resource Forecasting wherein IBM and Client will jointly manage the forecasting process. Planning horizon needs will be agreed to at the beginning of the project, with sufficient lead time and thresholds for forecasting accuracy. IBM will include in the rolling forecast a description of the role, required technical skills, location, and duration (estimated start and end dates) for each resource. 
+Moreover, IBM has built the Technology Assembly Centre (TAC) to optimize overall resource utilization. TAC uses a factory-based model to deliver maximum value through standardized, consistent, and repeatable results. We will also continue to look for opportunities to reduce cost by leveraging large collections of assets and accelerators, as well as industry-leading processes and methods and a large pool of technical and functional resources such as industry SMEs. In the event of an important project milestone or crisis, these SMEs bring unmatched expertise to quickly provide an innovative solution.
+ 
+How do you handle data security and privacy with remote working employees ?
+ 
+IBM allows hybrid work environment, a typical week is made up of time spent working from home plus from IBM offices for 3 days.
+Also, during mid-March 2020, IBM has had most of our global workforce working remotely across 175 countries and supported all our clients without any interruptions. This is testament of IBM’s agility and capability to adapt to new working environments and challenges.
+IBM was able to overcome the challenges of remote work with following multi-dimensional enablers we have put in place.
+Data privacy and confidentiality:
+When working from home, we advised our employees to maintain the privacy and confidentiality of the information that is on the screen, on work papers or meetings by taking simple actions like keeping the screen locked when stepping away, shredding any confidential printed material properly and using a headset for meetings.
+
+Input:
+
+Output:
+IBM uses  “Core/Flex” approach to handle scalability and enable flexible deployment of the required skills and experience at the right time and right place.
+The “Core” team will be dedicated to performing high-end activities across different work streams and will be retained within the account for the long term. This approach will provide stability and continuity.
+The “Flex” team will provide additional staffing capacity to support variable and supplemental project demands and will increase or decrease in size to address dynamic workload, providing necessary scalability and flexibility at an optimal cost. This will help ensure there will be a highly skilled resource pool available which can be used in case of an unpredicted volume surge or to offer a quick resolution in a crisis. Flex team practitioners who gain significant experience in the Client’s environment will be included in the core team when required.
+The following schematic provides a simple overview of the Core/Flex model:
+Depending on Client’s current and future needs, resources will be assigned to work either as part of the “IBM Core Team” to address Client’s core and critical project services, and/or to the “IBM Flex Team”. The Flex team will be primarily assigned for Sustainment Services, where the workload can be elastic and dynamic.
+As Client’s project portfolio changes, the demand for skills and system expertise also changes. Resources move between the “Flex” and “Core” Service teams to optimize our delivery capability and maximize the flexibility of service to Client. Additionally, a flexible “IBM Resource Pool” will be used to supplement both the Core and the Flex teams to help deliver the right balance of experience and skills in line with your forecast and then committed demand.
+The Core/Flex staffing model will be complemented with robust 30-60-90 based Resource Forecasting wherein IBM and Client will jointly manage the forecasting process. Planning horizon needs will be agreed to at the beginning of the project, with sufficient lead time and thresholds for forecasting accuracy. IBM will include in the rolling forecast a description of the role, required technical skills, location, and duration (estimated start and end dates) for each resource. 
+Moreover, IBM has built the Technology Assembly Centre (TAC) to optimize overall resource utilization. TAC uses a factory-based model to deliver maximum value through standardized, consistent, and repeatable results. We will also continue to look for opportunities to reduce cost by leveraging large collections of assets and accelerators, as well as industry-leading processes and methods and a large pool of technical and functional resources such as industry SMEs. In the event of an important project milestone or crisis, these SMEs bring unmatched expertise to quickly provide an innovative solution.
+ 
+How do you handle data security and privacy with remote working employees ?
+ 
+IBM allows hybrid work environment, a typical week is made up of time spent working from home plus from IBM offices for 3 days.
+Also, during mid-March 2020, IBM has had most of our global workforce working remotely across 175 countries and supported all our clients without any interruptions. This is testament of IBM’s agility and capability to adapt to new working environments and challenges.
+IBM was able to overcome the challenges of remote work with following multi-dimensional enablers we have put in place.
+Data privacy and confidentiality:
+When working from home, we advised our employees to maintain the privacy and confidentiality of the information that is on the screen, on work papers or meetings by taking simple actions like keeping the screen locked when stepping away, shredding any confidential printed material properly and using a headset for meetings.
+
+Input:
+How is IBM’s flexibility and approach to address variations in demand and scaling up when needed ?
+
+Output:
+
+Input:
+How is IBM’s flexibility and approach to address variations in demand and scaling up when needed ?
+
+Output:
+
+Input:
+How is IBM’s flexibility and approach to address variations in demand and scaling up when needed ?
+
+Output:
+ IBM uses “Core/Flex” approach to handle scalability and enable flexible deployment of the required skills and experience at the right time and right place. The “Core” team will be dedicated to performing high-end activities across different work streams and will be retained within the account for the long term. This approach will provide stability and continuity. The “Flex” team will provide additional staffing capacity to support variable and supplemental project demands and will increase or decrease in size to address dynamic workload, providing necessary scalability and flexibility at an optimal cost. This will help ensure there will be a highly skilled resource pool available which can be used in case of an unpredicted volume surge or to offer a quick resolution in a crisis. Flex team practitioners who gain significant experience in the Client’s environment will be included in the core team when required. The following schematic provides a simple overview of the Core/Flex model: Depending on Client’s current and future needs, resources will be assigned to work either as part of the “IBM Core Team” to address Client’s core and critical project services, and/or to the “IBM Flex Team”. The Flex team will be primarily assigned for Sustainment Services, where the workload can be elastic and dynamic. As Client’s project portfolio changes, the demand for skills and system expertise also changes. Resources move between the “Flex” and “Core” Service teams to optimize our delivery capability and maximize the flexibility of service to Client. Additionally, a flexible “IBM Resource Pool” will be used to supplement both the Core and the Flex teams to help deliver the right balance of experience and skills in line with your forecast and then committed demand.
+Input:
+What is IBM's Migration Factory Methodology?
+
+Output:
+High level overview of the phases of IBM’s Migration Factory methodology Application and Workload Discovery (Phase 1), Analysis and Macro Design (Phase 2),Migration and Wave Planning (Phase 3), Analysis and Micro Design (Phase 4), and Migration and Deployment (Phase 5).
+
+Input:
+What are the detailed phases in IBM's Migration Factory Methodology?
+
+Output:
+Phase 1, Application and Workload Discovery: IBM assesses and documents the current environment including applications, data, infrastructure, and systems. We collect existing documentation and data employing automated data collection tools to reduce time and labor costs. We gather additional data (e.g., high-availability requirements, performance requirements, and platform dependencies) and analyze source information (e.g., application, database, and middleware). IBM conducts workshops, engages stakeholders to confirm expectations, builds a detailed understanding of the environment, and discusses deployment topology options.
+Phase 2, Analysis and Macro Design: IBM conducts analysis of the current application environment, prioritizes the applications between cloud-ready versus additional investment required. We identify dependencies; determines virtualization, migration and optimization opportunities; and identifies provisioning needs. We identify risks and mitigation strategies, map current to target services, and create a macro design (high-level design). We assess performance impacts, determine activity durations, create estimates of non-recurring and recurring costs, and create an initial Migration Plan.
+Phase 3, Migration and Wave Planning:  IBM conducts further analysis of the current and target environments, application data, and application dependencies. We determine the impact of other in-flight projects and update the Migration Plan to provide further details, including: Identification of the specific target infrastructure and applications to be migrated, cloud migration sequencing, and the future state system architecture and system design.
+Phase 4, Analysis and Micro Design: IBM develops the micro design (detailed design), a detailed migration wave plan, and documents the target environment in a Migration Analysis Report. We identify additional dependencies and configuration needs (e.g., IP addresses, network and security dependencies, etc.). We update the Migration Plan, document the migration approach, schedule, risk mitigation strategy, and supporting documentation. We also develop the Cutover Plan.
+Phase 5, Migration and Deployment:IBM executes the Migration Plan and conducts migrations (applications and data) to the target cloud environment. We maximize the use of automation by using industry-leading migration tools to reduce human error and costs. We employ the appropriate migration methods and conduct security/compliance evaluations, testing, and database and software performance remediation. IBM conducts go-live testing, cutover and deployment. We execute the Cutover Plan to activate the applications and coordinate with stakeholders. Following cutover efforts, we conduct a post-deployment assessment to verify that all systems function properly, meet performance expectations, and are operating in a stable and reliable manner.
+
+Input:
+What are the detailed phases in IBM's Migration Factory Methodology?
+
+Output:
+Phase 1, Application and Workload Discovery: IBM assesses and documents the current environment including applications, data, infrastructure, and systems. We collect existing documentation and data employing automated data collection tools to reduce time and labor costs. We gather additional data  and analyze source information  IBM conducts workshops, engages stakeholders to confirm expectations, builds a detailed understanding of the environment, and discusses deployment topology options.
+Phase 2, Analysis and Macro Design: IBM conducts analysis of the current application environment, prioritizes the applications between cloud-ready versus additional investment required. We identify dependencies; determines virtualization, migration and optimization opportunities; and identifies provisioning needs. We identify risks and mitigation strategies, map current to target services, and create a macro design (high-level design). We assess performance impacts, determine activity durations, create estimates of non-recurring and recurring costs, and create an initial Migration Plan.
+Phase 3, Migration and Wave Planning:  IBM conducts further analysis of the current and target environments, application data, and application dependencies. We determine the impact of other in-flight projects and update the Migration Plan to provide further details, including: Identification of the specific target infrastructure and applications to be migrated, cloud migration sequencing, and the future state system architecture and system design.
+Phase 4, Analysis and Micro Design: IBM develops the micro design (detailed design), a detailed migration wave plan, and documents the target environment in a Migration Analysis Report. We identify additional dependencies and configuration needs We update the Migration Plan, document the migration approach, schedule, risk mitigation strategy, and supporting documentation. We also develop the Cutover Plan.
+Phase 5, Migration and Deployment:IBM executes the Migration Plan and conducts migrations (applications and data) to the target cloud environment. We maximize the use of automation by using industry-leading migration tools to reduce human error and costs. We employ the appropriate migration methods and conduct security/compliance evaluations, testing, and database and software performance remediation. IBM conducts go-live testing, cutover and deployment. We execute the Cutover Plan to activate the applications and coordinate with stakeholders. Following cutover efforts, we conduct a post-deployment assessment to verify that all systems function properly, meet performance expectations, and are operating in a stable and reliable manner.
+
+Input:
+Elaborate on Phase 1, Application and Workload Discovery?
+
+Output:
+IBM assesses and documents the current environment including applications, data, infrastructure and systems. We collect existing documentation and data employing automated data collection tools and analytics to reduce time and labor costs. These tools include IBM’s Script Collected Manual Data (SCMD), Tivoli Application Dependency Discovery Manager (TADDM) and our patented analytics tool, System Consolidation Object Processing Environment(SCOPE).We gather additional data (e.g., high-availability requirements, performance requirements and platform dependencies) and analyze source information (e.g., application, database and middleware). This allows us to determine the essential characteristics of the source environment in which the <client> applications reside and supports further migration planning efforts. Our approach provides repeatability and reductions in cost and time compared to manual data collection and documentation approaches.
+
+IBM collaborates with stakeholders to obtain additional information not found using the automated discovery tools, such as application owner, purpose, historical utilization, connectivity, system criticality, performance and availability requirements. We analyze business rules and controls, application architecture, dependencies and interfaces, configuration management repositories and test cases. Information is loaded into our SCOPE analytics database for migration planning and implementation. We develop a detailed Current State System Report (aka. Description of Current Environment Report), documenting discovery results, including: Virtualization Report, Application Inventory, Application Mapping, Application Affinities, environment characteristics, server and image information and database storage information.
+
+Throughout the phase, IBM conducts workshops, engages stakeholders to confirm expectations, builds a detailed understanding of the environment, discusses deployment topology options and creates the initial Migration Plan.
+
+Input:
+Elaborate on Phase 2, Analysis and Macro Design?
+
+Output:
+IBM analyzes the information collected during Application and Workload Discovery (Phase 1) and conducts a structured analysis to build in-depth knowledge of the systems. Using our proven techniques we prioritize the applications between cloud-ready versus additional effort required. We identify dependencies; determine virtualization, migration and optimization opportunities; and identify provisioning needs. We assess performance impacts, determine activity durations, and create estimates of non-recurring and recurring costs. We identify device performance and relationships, research discovered devices, map devices to applications, generate configuration/utilization reports, and create mission application affinity maps. 
+
+The in-depth analysis allows us to identify areas such as: Connectivity and interconnections; detailed data connections, interfaces and data feeds; and network, circuit, and bandwidth needs. The analysis also allows us to identify specific communication and coordination needs between IBM, current service providers, application owners and stakeholders. We use this information to identify risks and mitigation strategies, map current to target services, and create a macro design (high-level design). During these efforts, we use the following techniques:
+•	Fit-for-virtualization and fit-for-cloud analysis: Conducted to confirm virtualization and cloud migration readiness for the applications and to identify components which might not currently be fit-for-cloud. As appropriate workloads are identified, they are classified into scenarios that enable rapid virtualization and we identify the preferred migration approaches (Physical-to-Physical, Physical-to-Virtual, or Virtual-to-Virtual).
+•	Cloud workload analysis: Conducted to produce a quantitative analysis of business application and infrastructure components to determine the cloud fit, estimated costs, and migration impact of moving to the target cloud environment(s).
+•	We Application Assessment Questionnaire (AAQ): Used to identify and address risks that may pose challenges to the successful migration of <client> applications. The AAQ provides an assessment of the applications and data to identify compatibility risks which could yield improvements in the migration effort. We use the AAQ to gather information, including: Database instances, licensing, application load balancing, clustering, virtual IPs, URLs, security, network zones, testing requirements, access methods (e.g., user interface, VPN, etc.), rate of data change, audit requirements, system dependencies, application owner responsibilities, outage windows and hardware dependencies. Some of this AAQ information will pertain to the existing data centers and provide further technical details to support <client> system migration efforts.
+
+IBM produces a fit-for-purpose roadmap, containing the target architecture and design, source state mapping to target state, scheduling constraints (e.g., in-flight projects, freeze periods, outage windows, infrastructure readiness, software licensing, and provisioning needs). We apply analytics that use server and application dependency maps to identify assets that must be moved together, brought on-line together, or have data migrated on-line to meet application availability requirements. Our SCOPE tool helps to automate analysis to provide a rapid prioritization of the workloads for migration and create the dependency maps of the device, network and application infrastructure. Lastly, we identify network, security and compliance domain information, including server cores, memory and storage; Operating System; middleware including database products; storage backup options and network options.
+
+Input:
+Elaborate on Phase 3, Migration and Wave Planning?
+
+Output:
+IBM identifies, prioritizes and plans the target state of the system, application, components, database and middleware using the data from the prior phases. We use server affinity and application dependency data to determine optimal “migration units”, focusing on the interdependencies between applications, data, appliances and middleware. We finalize the micro design specifications (detailed design) for the migration units, including: hardware sizing, software stack, network, security and compliance. We plan “waves” of related applications, i.e. applications that must be migrated together due to dependencies, operation needs and other factors. Interdependencies between waves are considered to determine migration impacts, which may change the grouping of servers in each wave.
+
+IBM also works with <client>todetermine the impact of other in-progress projects and updates the Migration Plan with additional details, including: Identification of the specific target infrastructure and applications to be migrated, cloud migration sequencing, and the future state system architecture and system design. This results is a detailed Wave Plan specifying the timeline and staffing, order of application migrations and target infrastructure build-out activities. We assign more complex migrations to later waves to allow additional planning time, reduce risk, enable migration activities to be validated in earlier waves, and to help achieve high migration success rate. Savings from the early migrations can be invested in migration of the harder, more costly applications. To that end, our migration plan calls for migrating lower risk systems earlier – namely due to the lower risk and the opportunity this affords the team and <client> to fine tune migration procedures. This is subject to change based on analysis, planning, collaboration and decision-making with <client> during pre-migration efforts.
+
+During migration planning, IBM also accounts for <client’s>business operations cycle and outage windows.  We recognize the importance of ensuring stability during this period and that no network changes, firewall changes, production or DR device changes can be made. We work with <client> regarding any constraints with the non-production environment, network and connectivity. We include these factors in migration plans and hold stakeholder meetings to schedule proposed changes.
+
+Input:
+Elaborate on Phase 4, Analysis and Micro Design ?
+
+Output:
+IBM conducts further analysis, develops a detailed design and an actionable migration wave plan and migration workbook. We identify further dependencies and configuration needs (e.g., IP addresses, network and security dependencies, etc.), document the target environment and finalize testing plans. We also update the Migration Plan, document the migration approach, schedule, risk mitigation strategy and develop the CutoverPlan. We perform the following activities in this phase:
+•	Update the Migration Plan to document the migration approach, schedule, risk mitigation strategy and document the target environment.
+•	Identify and initiate the “quick win” waves that do not require detailed assessment and gain buy-in for implementation. Examples of quick wins are infrastructure servers (e.g., print/file servers), back office servers and low complexity applications with few interdependencies.
+•	Address application environment dependencies to enable it for the cloud or to exploit cloud services. We design the elasticity features required between the applications and the target Cloud. We identify IP address or other network/security dependencies of the applications, affecting potential use of RMA levels, availability, DR or supplemental features.
+•	Begin preparing Certification & Accreditation (C&A) documentation.
+•	Establish network, system, storage and software licensing readiness dates.
+•	Determine impact of any in-flight projects and resource availability constraints.
+
+Input:
+Elaborate on Phase 5, Migration and Deployment?
+
+Output:
+IBM executes the Migration Plan and commences migrations to the target cloud environment. We maximize the use of automation by using industry-leading migration tools to reduce human error and costs. We employ the appropriate migration methods and conduct security/compliance evaluations. IBM conducts regression testing, using developed test plans and/or executes government provided test plans and scripts, as appropriate. We support security Test & Evaluation (ST&E) activities required to achieve ATO and coordinate efforts with the Government ISSO on ATO efforts and to address relevant Plan of Action and Milestones (POA&M) items.After migration to the production environment, we conduct go-live testing and cutover.We also support user acceptance testing efforts, as needed.
+
+IBM holds transition meetings with the government and O&M contractor. We agree to go live with the government, PMO, and Operations and conduct hand-off activities to the O&M contractor. IBM executes the Cutover Plan to activate the applications and coordinate with <client>stakeholders. We conduct a post-deployment assessment to verify all systems function properly, meet performance requirements and operate in a stable and reliable manner.  We monitor the target environment and perform troubleshooting, detection, and resolution of problems that might arise in the target environment.
+
+IBM realizes that <client> has made progress in modernizing and virtualizing aspects of key systems. We realize further modernization effortsremain for some of these systems. Our migration planning efforts are thorough to account for the complexities of these systems, environment, application interfaces and connections, the flow of data between sitesand communications needs (e.g., DR site and additional interconnection needs). IBM also realizes some <client> systems will be easier to migrate than others.  For example, some systems will be more complex due to application and database connections, complex integration between components, application dependencies, current reliance on existing architectures and technologies, OS dependencies and possible network changes. System migration efforts will require close coordination with the application ownerand <client>stakeholders.
+
+IBM understands the system migration complexities. Our experience helps to validate that we have accounted for risks and developed appropriate mitigation plans. Our approach takes into account these risks, complexities and interdependencies when developing the Migration Plan. We conduct detailed analysis of the application and system interconnections, connectivity, data flows and interfaces. We work with stakeholders, current services providers, application owners to ensure provisioning, configuration, migration and cutover activities are seamless and to prevent outages. Beyond the technical aspects of migration efforts, we also focus on business, operational, and stakeholder impacts, interests and priorities.
+
+Input:
+What are the typical roles in the squad engaged in Application Migration to a Cloud Project?
+
+Output:
+Project Manager
+Lead Migration Solution Architect
+Application Workload Discovery (AWD) Architect/Engineer
+Wintel/Linux Architect/Engineer
+UNIX Architect/Engineer
+Database Architect/Engineer
+Application Server (WAS, WebLogic, JBOSS, IIS) Architect/Engineer
+ Storage Architect/ Engineer
+Network Architect/Engineer
+Cloud Service Provider (CSP) SME
+COTS/Package SME
+Security Architect/Engineer
+
+Input:
+What is IBM's Migration Factory Methodology high level overview?
+
+Output:
+ High level overview of the phases of IBM’s Migration Factory methodology Application and Workload Discovery (Phase 1), Analysis and Macro Design (Phase 2),Migration and Wave Planning (Phase 3), Analysis and Micro Design (Phase 4), and Migration and Deployment (Phase 5).
+Security 
+
+Input:
+Q: How do you handle data security and privacy with remote working employees ?
+
+Output:
+IBM allows hybrid work environment, a typical week is made up of time spent working from home plus from IBM offices for 3 days.
+Also, during mid-March 2020, IBM has had most of our global workforce working remotely across 175 countries and supported all our clients without any interruptions. This is testament of IBM’s agility and capability to adapt to new working environments and challenges.
+IBM was able to overcome the challenges of remote work with following multi-dimensional enablers we have put in place.
+Data privacy and confidentiality:
+When working from home, we advised our employees to maintain the privacy and confidentiality of the information that is on the screen, on work papers or meetings by taking simple actions like keeping the screen locked when stepping away, shredding any confidential printed material properly and using a headset for meetings.
+IBM Cybersecurity and Data Privacy Annual Education:
+This is a mandatory course for our resources with access to IBM systems, data and IBM network, designed to validate our understanding of common cybersecurity threats and how to defend against them, how to handle sensitive and personal information appropriately, and how to respond to data privacy, tech ethics, or cybersecurity incidents if they do arise. It will help our resources to protect IBM, our brand, and our clients, and maintain the trust of those whose personal information we process.
+ 
+Thus, IBM as demonstrated for the past two and half years, is very well positioned to deliver services remotely. We believe that if remote work is embraced as part of innovation and technological change, it has the potential to improve productivity, attract and retain talent, and assist in the transition to a low carbon economy.
+
+Input:
+Q: How do you handle data security and privacy with remote working employees ?
+IBM allows hybrid work environment, a typical week is made up of time spent working from home plus from IBM offices for 3 days.
+Also, during mid-March 2020, IBM has had most of our global workforce working remotely across 175 countries and supported all our clients without any interruptions. This is testament of IBM’s agility and capability to adapt to new working environments and challenges.
+IBM was able to overcome the challenges of remote work with following multi-dimensional enablers we have put in place.
+Data privacy and confidentiality:
+When working from home, we advised our employees to maintain the privacy and confidentiality of the information that is on the screen, on work papers or meetings by taking simple actions like keeping the screen locked when stepping away, shredding any confidential printed material properly and using a headset for meetings.
+IBM Cybersecurity and Data Privacy Annual Education:
+This is a mandatory course for our resources with access to IBM systems, data and IBM network, designed to validate our understanding of common cybersecurity threats and how to defend against them, how to handle sensitive and personal information appropriately, and how to respond to data privacy, tech ethics, or cybersecurity incidents if they do arise. It will help our resources to protect IBM, our brand, and our clients, and maintain the trust of those whose personal information we process.
+ 
+Thus, IBM as demonstrated for the past two and half years, is very well positioned to deliver services remotely. We believe that if remote work is embraced as part of innovation and technological change, it has the potential to improve productivity, attract and retain talent, and assist in the transition to a low carbon economy.
+
+Output:
+
+Input:
+Q: What is IBM data security and privacy policy
+
+Output:
+ IBM Cybersecurity and Data Privacy Annual Education: This is a mandatory course for our resources with access to IBM systems, data and IBM network, designed to validate our understanding of common cybersecurity threats and how to defend against them, how to handle sensitive and
+Provide a crisp response based on the Input and Output provided
+
+Generate a response based on the Input and Output provided here.
+
+Input: 
+What are Typical SLAs that we can expect from IBM in the managed services contract? 
+
+Output:
+IBM will provide the following SLAs to be baselined after 3 months of transition:
+Incident Response for Critical or P1 [Response time: 15 - 30 minutes] with % incidents responded within SLA	97%
+High or P2 [Response time: 30 minutes - 1 hour]	% incidents responded within SLA	96%
+Medium or P3 [Response time: 3 - 4 hours]	% incidents responded within SLA	90%
+Low or P4 [Response time: 8 - 12 hours]		% incidents responded within SLA	90%
+
+Input: 
+What is an SLA in the IT industry?
+Output:
+An SLA, or Service Level Agreement, is a contractual agreement between a service provider like IBM and a customer that outlines the specific levels of service and performance metrics that the provider is obligated to deliver. It serves as a benchmark for the quality of services and the consequences if those levels are not met.
+
+Input:
+What are the key components of an SLA that IBM considers?
+
+Output:
+IBM’s SLA methodology typically includes several key components:
+   - **Service Description:** Clearly defines the services being provided.
+   - **Performance Metrics:** Specifies measurable indicators like uptime, response time, and resolution time.
+   - **Responsibilities:** Outlines the roles and responsibilities of both the service provider and the customer.
+   - **Escalation Procedures:** Defines the steps to be taken if issues are not resolved within specified timeframes.
+   - **Penalties and Remedies:** Describes potential consequences if SLA terms are not met, such as service credits or refunds.
+   - **Reporting and Communication:** Specifies how and when performance reports will be shared with the customer.
+   - **Review and Revision:** Addresses how often the SLA will be reviewed and potentially updated.
+
+Input: How IBM manages SLA for a client?
+Output:
+IBM’s SLA management involves several stages:
+   - **Negotiation:** Both IBM and Client collaboratively define the SLA terms, ensuring they are realistic and achievable.
+   - **Implementation:** IBM sets up monitoring systems to track performance metrics accurately.
+   - **Monitoring:** IBM Regularly track and measure actual performance against SLA targets.
+   - **Reporting:** IBM provides customers with periodic reports that detail performance, highlighting areas of success and improvement.
+   - **Review:** Hold periodic review meetings to discuss SLA performance, making adjustments if necessary.
+   - **Escalation:** Follow predefined escalation procedures if SLA breaches occur, ensuring timely issue resolution.
+   - **Continuous Improvement:** Use data from SLA performance to identify trends and areas for service enhancement.
+
+How IBM manages client SLAs?
+
+How IBM manages SLA for a client?
+ IBM’s SLA management involves several stages: - **Negotiation:** Both IBM and Client collaboratively define the SLA terms, ensuring they are realistic and achievable. - **Implementation:** IBM sets up monitoring systems to track performance metrics accurately. - **Monitoring:** IBM Regularly track and measure actual performance against SLA targets. - **Reporting:** IBM provides customers with periodic reports that detail performance, highlighting areas of success and improvement. - **Review:** Hold periodic review meetings to discuss SLA performance, making adjustments if necessary. - **Escalation:** Follow predefined escalation procedures if SLA breaches occur, ensuring timely issue resolution. - **Continuous Improvement:** Use data from SLA performance to identify trends and areas for service enhancement.
+Answer the following question using only information from the article. If there is no good answer in the article, say "I don't know".
+
+Article: 
+###
+Tomatoes are one of the most popular plants for vegetable gardens. Tip for success: If you select varieties that are resistant to disease and pests, growing tomatoes can be quite easy. For experienced gardeners looking for a challenge, there are endless heirloom and specialty varieties to cultivate. Tomato plants come in a range of sizes. There are varieties that stay very small, less than 12 inches, and grow well in a pot or hanging basket on a balcony or patio. Some grow into bushes that are a few feet high and wide, and can be grown is larger containers. Other varieties grow into huge bushes that are several feet wide and high in a planter or garden bed. Still other varieties grow as long vines, six feet or more, and love to climb trellises. Tomato plants do best in full sun. You need to water tomatoes deeply and often. Using mulch prevents soil-borne disease from splashing up onto the fruit when you water. Pruning suckers and even pinching the tips will encourage the plant to put all its energy into producing fruit.
+###
+
+Question:
+Q1. Explain IBMs approach for Automation, AI Ops /IT Control center deployment, Chat ops, Digital Workers      
+
+Answer:
+We will institutionalize a Rapid-Accelerate-Scale (RAS) based model. This tailored approach blending IBM’s Garage Method with Agile delivery method, will iteratively introduce innovation through rapid sprint cycles by prioritizing business critical applications improvements and enhancements. After the value of the incremental innovation has been rapidly validated, we will accelerate the transformation leveraging tested & harvested assets. Finally, we will scale the innovation across the Client X enterprise and ensure its sustainability through reusable standardized templates and harmonized process.
+
+Based on our existing knowledge of the application landscape, we have produced a custom roadmap across the adoption of different levers to help layout a clear roadmap towards “Transformation – Innovation – Invest” keeping focus on ‘continuous compliance’ in a Hybrid cloud environment
+
+ The proposed timelines are Continuous discovery (2-4 weeks) >>> Rapid Innovation (5-10 weeks) >>> Accelerated Transformation (14-28 weeks) >>> Scale & Sustain (15-36 weeks)
+
+Current State Assessment >>> Rapid Prototyping >>> Transformation Blueprinting >>> Value Stream Instrumentation Platform >>> Governance & COE Stand up, Operationalize Ways of Working >>> Accelerated Onboarding >>> AI/ML Infusion >>> Operationalize AI Insights >>> Transform Talent and Culture >>> Reliability Engineering >>> Sustain Continuous Innovation >>> Sustained Business Value
+
+Question:
+Q2. Please explain your approach to automation in complex and hybrid application landscape spread across various maturity levels. 
+
+Answer:
+We will continue to leverage the Innovation Framework adopting a pragmatic approach to first move up the value chain within the existing maturity scale while also enabling them to move in to a more automated and AI driven approach. This will ensure optimizations to be built faster while allowing foundation aspects to be scaled across platforms
+
+Based on the RFP provided application inventory data, we understand ~55% show affinity to Azure, 30% towards AWS and 15% towards niche SaaS platforms.
+
+Leveraging our Hybrid Cloud Workbench platform, IBM will invest in the rapid discovery phase to co-develop a Cloud Transformation roadmap for migrating &modernizing all the custom applications to Clients X preferred cloud platform. This cloud agnostic orchestration engine will take care of front to back cloud transformation needs, including gathering multisource data inputs, developing an intelligent portfolio disposition, solution designing, business case creation, architectural guidance, cloud foundation setup, code migration, CI/CD, and operations management.
+
+Question:
+Q3. How AMS outcomes amplified using IBM Automation levers
+
+Answer:
+IBM and SAP integrated digital platform operations bring modern ways of working, Self-heal automation interventions, sustainable continuous improvements. 
+
+IBM propose digitalizing and automating existing workflows with AI to create touchless processes that are powered by hybrid workforce. Leveraging the IBM automation platform for business and IT, process mining capabilities and SAP partner technologies can together drive greater efficiencies and experiences. As an example, our Automation Driven Remediation Accelerator enables issue resolution closer to source for smoother business operations with a virtual agent / digital worker.
+
+Based on RFP data, with combination of human & digital workforce IBM propose ~30% reduction in MTTR, ~25% reduction in L2 tickets /shift left to L1, ~50% reduction in monitoring efforts 
+
+IBM has a wide range of Assets, Tools, and Accelerators available for deployment, some of listed below
+
+WRICEF Tracker
+Target Operating model with Governance
+DevSecOps - DevSecOps Commander
+S/4HANA Technology adoption - AI, Situation Handling & iRPA scenarios
+Intelligent Workflows
+Automation use cases with RPA and Anisble
+Digital Workers
+Advanced Analytics platform (AAP) for ticket analysis automation
+Application Development to Application Maintenance collaboration model
+User Assist
+Agent Assist
+SmartOps - Manage
+Process Mining
+Business Process Monitoring - SolMan
+Control Tower for both IT & Business KPIs - Single Pane of visibility
+Coverage Analyzer
+
+Question:
+Q4. Please explain how you propose to reduce TCO leveraging Automation
+
+ 
+
+Answer:
+Self-funding ERP platform support emphasizing “shift left” – journey broken into components and process that can be pulled ahead to create values. The leveraging factor for this is Automation AI/ML adoption, IT Ops, Digital workers as listed below
+
+Lever – Agent Assist
+Description
+Agent Assist is a virtual cognitive assistant that empowers IBM support practitioners to: 
+Diagnose and resolve Level 2/3 tickets faster, more accurately and more consistently
+More consistently answer user inquiries and respond to service requests
+Build and retain knowledge regarding a client’s applications, in a highly re-usable format
+Impact
+Reduce Average Resolution Time for L2/3 tickets by providing easy access to relevant
+Reduce Resolution Time Variances resulting in a more reliable and consistent performance
+Support Shift-Left Model to achieve resolution earlier in the support process (e.g. L2 instead of L3)
+Enable less experienced support consultants to be more effective through knowledge sharing and re-use
+Lever – User Assist
+Description
+Help Users resolve L1.5, L2 tickets by assisting with knowledge documents, business process, steps and possible trial options to check and resolve the issue.
+Impact
+Quicker resolutions of light issues.
+Time savings for users.
+Reduced incidents to sustain team.
+Lever - Automation / RPA
+Description
+        Library of more then 600+ Used cases for various modules & functionalities of  SAP from clients world over
+Impact
+Accuracy & Speed
+Low Touch Maintenance
+Intelligent Automation
+Repeat manual Works automated
+Lever – ECA Assets
+Description
+100+ Assets ready for Client usages in SAP and Custom areas.
+Impacts
+Ready to Use
+Immediate impacts
+Lever – Digital Workers
+Description
+20+ Digital Workers ready to take over the routine and mundane works.
+Impact
+Can operate 24 * 7 
+Accuracy & Speed
+Focused Work Outputs every time
+
+Question:
+Q5. What investments are you making in R&D and Automation to help reduce TCO
+
+Answer:
+IBM has always believed in progress through meaningful innovation; some of the innovation that is directly related to in-scope services are:
+AIOps related automation
+Biz Ops and Process mining
+Digital Operations
+Test Automation tools like Combinatorial Test Design and Search, Tag & Model - STAM
+Ansible assets for Content   Discovery (find me), Explanation (tell me), Optimization (review), Generation (new content from NLP or new role creation) 
+
+The investments are infused in to our delivery of services through a continuum of four key phases: ideate, demo, build, and operate. IBM proposes bringing some the following tools to help us with our delivery for Client X
+Ansible assets on OEM, DB monitoring
+UIAF Automation Platform
+Digital Operations
+AIChatbots
+Digital Workers enabled via RPA / Celonis process discovery
+
+Question:
+Q6. Digital Everywhere Transformation
+
+Answer:
+The impact of the pandemic has led both businesses and customers to grow accustomed to operating in a virtual world, driving a new phase of accelerated “Digital Everywhere” Transformation
+
+We deliver this through. 
+IBM proprietary innovations across singular data, platform & architecture	
+IBM Control Tower (Single pane of glass for real-time visibility into operations performance, bringing full stack observation, orchestration, and automation) 
+
+The “Digital Everywhere” agenda stands on the shoulders of intelligent workflows, powered by ServiceNow & IBM, with a shared vision to enable “Connected, personalized experiences” across the Enterprise.
+
+ 	IBM Digital operations (AIOps), AA/Digital workforce (Process Automation), IBM Agent Assist / KM (Conversational AI, ChatOps)
+Digital workflows to Orchestrate work across the enterprise  IT, Employee, Business, Customer workflows.
+IBM Synergy to Infuse Intelligence and Drive Automation   Watson intelligence, RPA & Intelligent Automation, Digital workforce,
+Reimagine processes and experiences  Celonis and WalkMe
+
+Question:
+Q7. How does IBM propose automated Post Migration verifications, Operations and Optimizations 
+
+Answer:
+1. IBM Cloud Management Platform: This is IBM’s full suite service delivery platform involving:
+a) DevSecOps commander providing end to end DevSecOps automation including GitOps, integration with
+ServiceNow and AWS ServiceCatalog for auto-provisioning of migration patterns.
+b) Intelligent automation for triaging and auto-healing
+c) AIOps for problem diagnosis, intelligent alerting and alert grouping, and code driven RCAs.
+d) ChatOps for optimal teaming, intelligent knowledge capture and automation of SRE activities.
+e) CAST and Sonarqube for code verifications
+
+2. AWS Computer Optimizer and AWS Cost Explorer will be used by IBM’s optimization squad to take appropriate sizing actions on a regular basis. We will use AWS instance scheduler to manage non-production environments.
+
+3. Application metrics collection will be aided by NewRelic; infrastructure metrics collection by Datadog.
+
+Q8. How would you organize highly productive IT operations, which principles you would apply to achieve much improved customers satisfaction with IT Service Delivery?
+
+The cloud gives us an opportunity to make a step change in IT operations: where automation is not an added feature but a native component, and where exponential technologies such as AI can be easily harnessed to drive dramatic improvements in productivity and user satisfaction.
+
+IBM’s approach to organize IT Operations on the Cloud embeds resilience engineering principles and an automation-first mindset, underpinned by our Garage Method and assets, to assure value realization from cloud-based applications.
+
+The following are the core components of our IT Service Delivery approach:
+
+1. IBM GARAGE METHODOLOGY: The Garage is the way IBM drives innovation at scale. It consists of three components: Design Thinking to bring diverse thinking to solve user pain points, Agile to rapidly and progressively deliver business value, and Factory techniques to scale agile delivery for large programs like this one.
+
+2. SITE RELIABILITY ENGINEERING: SRE takes an engineering approach to operations with cross-functional squads of engineers working in a distributed agile formation to deliver integrated operations (Development-Application Support-Infrastructure). These squads are organized as vertically integrated product teams (Consumer, Product Development, Operations/Supply Chain and Corporate Functions). They are incentivized to drive automation for low value, repetitive tasks and focus on activities which improve ROI. Underpinning the SRE framework is our talent management framework (IBM Pathways) which ensures a pipeline of technical talent and retention of top performers.
+
+3. AI FOR IT: As a company focused on helping clients leverage machine learning and augmented intelligence solutions, we have been deploying AI solutions across the IT operations value chain. Our AIOps Cognitive Model uses the cloud telemetry exhaust to provide predictive maintenance capabilities such as intelligent alerting and alert grouping, Next Best Actions for problem resolution and Self Heal capabilities to reduce unplanned outages. We use Natural Language Processing in the form of virtual agents to resolve L1.5 tickets and collaboration rooms called ChatOps to integrate development and operations tools and processes into a collaboration platform so that teams can efficiently communicate and easily manage their workflows. We apply pattern recognition machine learning models to identify modernization opportunities through usage of tools such as Mono2Micro (a Watson asset for identifying code patterns which can be encapsulated and offered as micro services). We have set the groundwork
+for these technologies already within the Client X delivery team, where AI-based solutions for chat and developer assistance are a part of our day-to-day operations.
+
+4. EXTREME AUTOMATION: Over the last few years, our automation efforts at Client X have been a “Tale of Two Cities”. On the one hand, we have seen significant savings and quality improvements from automating testing and monitoring, deploying chatbots for our developers, and creating the first automated DevOps toolchains on Client X (AWS) cloud. On the other hand, perhaps not surprisingly, we have seen limited benefit from the RPA-style bolt-ons
+For our cloud-based clients, this is an entirely different story. The cloud enables truly native automation in the form of DevSecOps using tools such as IBM DevOps Commander to automate provisioning of toolchains for immutable management of code and configuration. We also use automation of Runbooks and AWS functionalities such as GuardDuty for threat detection.
+
+5. IBM IGNITE QUALITY ENGINEERING: IGNITE is a set of Quality Engineering practices for Cloud which integrates automated “chaos” testing as part of the DevSecOps pipeline for continuous resilience testing, canary deployments for A/B testing and auto scanning of containers and deployments for security vulnerabilities. The quality engineers form a part of the SRE squads and are well versed in tools and techniques such as Combinatorial Test Design and CAST for code scanning.
+
+6. CLOUD SERVICE MANAGEMENT: Service Integration and Management is critical in a cloud platform operation to ensure standardization, service level management and financial control. Our approach to cloud service management is based on providing to platform owners a single pane of glass view, such as IBM’s Cloud Management Platform or an equivalent solution. IBM’s CMP will integrate with AWS service catalogues and ITIL (SNOW) tools to act as both a single-entry point of all service management activities such as service catalogues and a control tower providing an overview of service levels, consumption, throttling / metering and policy management. Further, complementing the Cloud Service Management Platform, are cloud native service levels and metrics as well as commercial models for cloud platforms (e.g., providing the managed services on a SaaS basis). 
+
+These are the six components we believe are necessary to ensure the right balance across enterprise agility, customer satisfaction, cost of ownership and technical viability.
+
+Question:
+Summarize based on examples provided
+
+Answer:
+ IBM will use a Rapid-Accelerate-Scale (RAS) model to introduce innovation through rapid sprint cycles by prioritizing business critical applications improvements and enhancements. IBM has a wide range of Assets, Tools, and Accelerators available for deployment, some of listed below. IBM propose digitalizing and automating existing workflows with AI to create touchless processes that are powered by hybrid workforce. Based on RFP data, with combination of human & digital workforce IBM propose 30% reduction in MTTR, 25% reduction in L2 tickets /shift left to L1, 50% reduction in monitoring efforts. IBM has always believed in progress through meaningful innovation; some of the innovation that is directly related to in-scope services are: AIOps related automation Biz Ops and Process mining Digital Operations Test Automation tools like Combinatorial Test Design and Search, Tag & Model - STAM Ansible assets for Content  Discovery (find me), Explanation (tell me), Optimization (review), Generation (new content from NLP or new role creation). The impact of the pandemic has led both businesses and customers to grow accustomed to operating in a virtual world, driving a new phase of accelerated “Digital Everywhere” Transformation. IBM proprietary innovations across singular data, platform & architecture IBM Control Tower (Single pane of glass for real-time visibility into operations performance, bringing full stack observation, orchestration, and automation) Digital workflows to Orchestrate work across the enterprise  IT, Employee, Business, Customer workflows. IBM Synergy to Infuse Intelligence and Drive Automation  Watson intelligence, RPA & Intelligent Automation, Digital workforce, Reimagine processes and experiences  Celonis and WalkMe. IBM’s approach to organize IT Operations on the Cloud embeds resilience engineering principles and an automation-first mindset, underpinned by our Garage Method and assets, to assure value realization from cloud-based applications.
+Provide answers to each of the following questions using full sentences
+
+How will IBM transition services delivery?
+
+The transition of Application Services to IBM will be completed incrementally over an initial period currently estimated at six months.  For rebadged employees, the Steady State services will transition immediately upon hire date.  For current contract resources, a managed knowledge transfer will be planned and executed to incrementally transition the scope to IBM.  The responsibilities of these resources will be transitioned to IBM employees in the US and India.
+
+Application Services transition planning is organized by service bundles in scope.  At the front end, an overall transition planning phase of 6-8 weeks will provide a detailed project plan for knowledge transfer execution.  Each service bundle will undergo a series of partitioned application knowledge transfer sprints.  The strategy is to conduct parallel workstreams for associated applications and personnel across the Application Services scope (Development, Support, Data and Testing).  As knowledge transfer is completed for each “sprint” within a bundle, the services will be transitioned to IBM steady state,   incrementally enabling the release of incumbent resources currently providing the services.
+
+The transition from Application Build to Application Support will occur in three phases:
+Regression Testing (Sanity Test) / Deliver & Transition Phase	
+Regression Testing will test functions previously tested are not impacted by the changes and fixes Development has released. IBM plans to perform the regression testing with automated scripts whenever possible, to validate the quarterly updates. Our plan is to develop Selenium scripts to repetitively test the future software releases.
+
+User Acceptance Testing / Transition Phase	
+<Client> will commence User Acceptance Testing. This should focus on testing that the solution meets the needs of the identified User Groups and business processes. IBM’s testing methodology aims at having low defect rates in UAT and focusing more on user adoption during UAT.
+
+Dry-Run / Production Verification Testing / Transition Phase	
+Prior to go-live the production environment will be tested to confirm readiness for go-live approval. Often referred to as Dry-Run, the testing will confirm the process for Cut-over.
+
+The transition to IBM Application Services will include the following:
+Transition and Transformation: The transition is carried out within the time frame as discussed with CLIENT systems and transformation is carried out using Accelerator /Tool SMEs to provide training and process development. 
+
+Ramp up Ramp down of resources: Ramp up will be done through structured planning during contracting phase and mobilizing resources rapidly from pool of resources available or to be released from projects getting completed. Ramp down will be as per detailed plans for individual tracks. Use of accelerators in specific areas as warranted, IBM will deploy the accelerators and tools to enable quick ramp up.
+
+Experience Mix: IBM Application Services team will have good mix of experienced consultants to create a blend of technical expertise, industry knowledge and on-ground experience while optimizing costs. The senior leads will guide the junior developers and test / support engineers in the application knowledge and tool knowledge to drive productivity and efficiency.
+
+How will IBM transition services?
+ The transition of Application Services to IBM will be completed incrementally over an initial period currently estimated at six months. For rebadged employees, the Steady State services will transition immediately upon hire date. For current contract resources, a managed knowledge transfer will be planned and executed to incrementally transition the scope to IBM. The responsibilities of these resources will be transitioned to IBM employees in the US and India. Application Services transition planning is organized by service bundles in scope. At the front end, an overall transition planning phase of 6-8 weeks will provide a detailed project plan for knowledge transfer execution. Each service bundle will undergo a series of partitioned application knowledge transfer sprints. The strategy is to conduct parallel workstreams for associated applications and personnel across the Application Services scope (Development, Support, Data and Testing). As knowledge transfer is completed for each “sprint” within a bundle, the services will be transitioned to IBM steady state, incrementally enabling the release of incumbent resources currently providing the services.
