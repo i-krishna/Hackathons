@@ -1,0 +1,35 @@
+version: '3.7'
+
+services:
+  ldap_server:
+    image: osixia/openldap:1.4.0
+    #command: "--loglevel ${SLAPD_LOG_LEVEL}"
+    environment:
+      LDAP_ORGANISATION: ORG_NAME
+      LDAP_DOMAIN: ORG.com
+      LDAP_ADMIN_PASSWORD: pwd4LDAPAdmin
+      LDAP_BASE_DN: cn=admin,dc=dip,dc=com
+      #LDAP_REMOVE_CONFIG_AFTER_SETUP: 'false'
+      KEEP_EXISTING_CONFIG: "true"
+      LDAP_REMOVE_CONFIG_AFTER_SETUP: "false"
+    ports:
+      - 389:389
+    tty: true
+    stdin_open: true
+    volumes:
+       - ldap_data:/var/lib/ldap
+       - ldap_config:/etc/ldap/slapd.d
+       - ldap_cert:/container/service/slapd/assets/certs
+       - '/tmp:/tmp'
+  ldap_server_admin:
+    image: osixia/phpldapadmin:0.7.2
+    ports:
+      - 8090:80
+    environment:
+      PHPLDAPADMIN_LDAP_HOSTS: ldap_server
+      PHPLDAPADMIN_HTTPS: 'false'
+
+volumes:
+  ldap_data:
+  ldap_config:
+  ldap_cert:
