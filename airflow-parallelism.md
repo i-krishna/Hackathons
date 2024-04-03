@@ -72,21 +72,21 @@ executor = localexecutor
 
 For INIT Workflow
 ```
-dag = DAG('EDEKARR_CMC_KPI_CALC_INIT',
+dag = DAG('KPI_CALC_INIT',
 default_args=default_args,
-description='EDEKARR_CMC_KPI_CALC_INIT',
+description='KPI_CALC_INIT',
 schedule_interval=None,
 concurrency=6)
 ```
 For EXEC Workflow
 ```
-dag = DAG('EDEKARR_CMC_KPI_CALC_EXEC',
+dag = DAG('KPI_CALC_EXEC',
 default_args=default_args,
-description='EDEKARR_CMC_KPI_CALC_EXEC',
+description='KPI_CALC_EXEC',
 schedule_interval=None,
 concurrency=6)
 ```
-- copy python workflow files with ```scp CMC*.py root@node:/data/docker_mounts/dev/dip_workflow/dag_data```
+- copy python workflow files with ```scp File*.py root@node:/data/docker_mounts/dev/dip_workflow/dag_data```
 - Incase of Broken DAG: 'Variable NODE_ENV does not exist' error, click on Admin and Variables. Click on create and add
 Name: NODE_ENV
 Value: dev
